@@ -11,8 +11,10 @@ Hello! My name is Liesl (she/her) and I look forward to learning about Markdown!
  ### Keep Up That Growth! 
  1. Don't let an obstacle bring you down; see it as a chance to improve! 
  2. No pain no gain 
- 3. It's never too late to ask for help   
+ 3. It's never too late to ask for help
+___   
 ## Markdown: Basic Syntax 
+___
 ***Headings***  
 Headings are indicated by the "#" and dependent on how many of these you use will result in various sized headings. For example  
 
@@ -25,13 +27,18 @@ This is similar to HTML's h1, h2, h3,... heading styles.
 *Don't forget the space between your # and your heading title. Otherwise it will look like this*  
 
 #This is my Heading when I forget the space.  
-
+___
 ***Paragraphs***  
 Paragraphs are much more simple. All you need to do is type in your text and separate it with a blank line...
 
 ...like this!  
-*Don't try formatting your text in Markdown. The computer does it for you!*  
 
+To make in paragraphs, you can use:  
+- Bullets ("-" or "*")
+1. Numbers ("1.")  
+  
+*Don't try formatting your text in Markdown. The computer does it for you!*  
+___
 ***Bold and Italics***  
 Markdown also lets you bold words and/or italicize them within your paragraphs. For example, if you want to bold something, simply surround it with a two pairs of ** ** or __ __.  
 
@@ -53,6 +60,23 @@ To have something both bolded and italicized, simply put three pairs of *** *** 
 
 
 ***This sentence is both bolded and italicized***
+___
+***Blockquotes***  
+Blockquotes separate signficant parts of text; simply insert a " > " before the piece of text. For example:
+
+> This sentence is in a Blockquote  
+
+Blockquotes can also contain multiple sentences and/or be nested within one another. For example:  
+
+> This sentence is in a Blockquote  
+>   
+> This is the second sentence in a Blockquote.  
+
+> This sentence is in a Blockquote. 
+>   
+>> This sentence is in a Blockquote within a Blockquote.  
+___  
+
 
 
 
