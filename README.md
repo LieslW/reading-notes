@@ -52,7 +52,43 @@ This text has both **bolded** and *italicized* words within it's sentence.
 To have something both bolded and italicized, simply put three pairs of *** *** or ___ ___.
 
 
-***This sentence is both bolded and italicized***
+***This sentence is both bolded and italicized***  
+___
+## Choosing a Text Editor  
+
+> What is a Text Editor?  
+
+Software that allows you to write and manage text to build a site
+
+Features: 
+1. Code completion 
+2. Syntax highlighting
+3. Variety of themes 
+4. Selection of extensions  
+___  
+## The Command Line  
+
+> What are Shortcuts?  
+
+Easier way to access files and/or documents within a cumputer program  
+
+Shortcuts:   
+- **pwd:** print working directory  
+- **ls:** list 
+- **cd:** change directory (cd[location])
+- **~ (tilde):** shortcut to home directory (~/Documents)
+- **. (dot):** reference to current directory (./Documents) 
+- **.. (dotdot):** reference to parent directory (/home/liesl --> ../../)
+
+Paths:    
+- **Absolute:** specifys location (file or directory) in relation to root directory. Begins with forward slash " / "
+- **Relative:** specifys location (file or directory) to current system locaaiton. No slash  
+
+Other:
+- **/etc:** Stores config files for the system  
+- **/var/log:** Stores log files for various system programs  
+- **/bin:** The location of several commonly used programs  
+- **/usr/bin:** Another location for programs on the system  
 
 
 
