@@ -1,4 +1,4 @@
-# Reading Notes
+# Reading Notes: Code 102d34
 Reading Notes for CodeFellows 102d34  
 Hello! My name is Liesl (she/her) and I look forward to learning about Markdown! Here's my profile: https://github.com/LieslW
 ## Growth Mindset 
@@ -18,3 +18,5 @@ ___
 - [Choosing a Text Editor](https://lieslw.github.io/Choosing-a-Text-Editor/)
 - [The Command Line](https://lieslw.github.io/The-Command-Line/)
 - [Git Comprehensive Guide](https://lieslw.github.io/Git-Comprehensive-Guide/)
+___
+# Reading Notes: Code 201d82
