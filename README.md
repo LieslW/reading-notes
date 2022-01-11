@@ -20,3 +20,5 @@ ___
 - [Git Comprehensive Guide](https://lieslw.github.io/Git-Comprehensive-Guide/)
 ___
 # Reading Notes: Code 201d82
+- HTML & CSS
+- Javascript & jQuery
