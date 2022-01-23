@@ -6,7 +6,7 @@ ___
    <summary>Read 01</summary>  
    
   - [Ch 1. Structure](Ch1Structure.md)  
-  - Ch 8. Extra Markup  
+  - [Ch 8. Extra Markup](Ch8ExtraMark.md)
   - Ch 17. HTML5 Layout  
   - Ch 18. Process & Design    
  </details>  
