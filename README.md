@@ -20,5 +20,5 @@ ___
 - [Git Comprehensive Guide](GitGuide.md)
 ___
 # Reading Notes: Code 201d82
-- HTML & CSS
+- [HTML & CSS](HTML|CSS.md)
 - Javascript & jQuery
