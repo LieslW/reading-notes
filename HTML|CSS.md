@@ -4,10 +4,11 @@ ___
   <summary>Week 01</summary>
  <details>  
    <summary>Read 01</summary>  
-  - [Ch 1. Structure](Ch1Structure.md)
+   
+  - [Ch 1. Structure](Ch1Structure.md)  
   - Ch 8. Extra Markup  
-  - Ch 17. HTML5 Layout
-  - Ch 18. Process & Design  
+  - Ch 17. HTML5 Layout  
+  - Ch 18. Process & Design    
  </details>  
  <details>  
   <summary>Read 02</summary>  
