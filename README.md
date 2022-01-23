@@ -15,6 +15,7 @@ Hello! My name is Liesl (she/her) and I look forward to learning about Markdown!
 ___
 ## Table of Contents 
 - [Markdown: Basic Syntax](https://lieslw.github.io/Markdown-Basic-Syntax/)
+- [Markdown: Basic Syntax](MarkdownBasicSyntac.md)
 - [Choosing a Text Editor](https://lieslw.github.io/Choosing-a-Text-Editor/)
 - [The Command Line](https://lieslw.github.io/The-Command-Line/)
 - [Git Comprehensive Guide](https://lieslw.github.io/Git-Comprehensive-Guide/)
