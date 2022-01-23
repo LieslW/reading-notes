@@ -7,7 +7,7 @@ ___
    
   - [Ch 1. Structure](Ch1Structure.md)  
   - [Ch 8. Extra Markup](Ch8ExtraMark.md)
-  - Ch 17. HTML5 Layout  
+  - [Ch 17. HTML5 Layout](Ch17Layout.md)  
   - Ch 18. Process & Design    
  </details>  
  <details>  
