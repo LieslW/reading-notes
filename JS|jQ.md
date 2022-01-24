@@ -5,9 +5,7 @@ ___
  <details>  
    <summary>Read 01</summary>  
   
-  - Ch 8. Extra Markup  
-  - Ch 17. HTML5 Layout
-  - Ch 18. Process & Design  
+  - [Ch 1. The ABC of Programming]
  </details>  
  <details>  
   <summary>Read 02</summary>  
