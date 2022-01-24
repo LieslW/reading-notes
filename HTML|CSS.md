@@ -1,17 +1,34 @@
 # HTML: Table of Contents  
 ___  
+<details><summary>stuff with *mark* **down**</summary><p>
 
-[Ch 1. Structure](Ch1Structure.md)
+## _formatted_ **heading** with [a](link)
+
+--->
+{{standard 3-backtick code block omitted from here due to escaping issues}}
+---
+
+Collapsible until here.
+</p></details>  
+
+<details><summary>stuff with *mark* **down**</summary><p>
+
+- [Ch 1. Structure](Ch1Structure.md) 
+- [Ch 8. Extra Markup](Ch8ExtraMark.md)  
+- [Ch 17. HTML5 Layout](Ch17Layout.md)  
+- [Ch 18. Process & Design](ch18ProcessDesign.md)
+</p></details> 
+
 <details> 
   <summary>Week 01</summary>
  <details>  
-   <summary>Read 01</summary>  
+   <summary>Read 01</summary><p>  
    
   - [Ch 1. Structure](Ch1Structure.md)  
   - [Ch 8. Extra Markup](Ch8ExtraMark.md)
   - [Ch 17. HTML5 Layout](Ch17Layout.md)  
   - [Ch 18. Process & Design](ch18ProcessDesign.md)    
- </details>  
+  </p></details>  
  <details>  
   <summary>Read 02</summary>  
   
