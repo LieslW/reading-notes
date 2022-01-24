@@ -5,7 +5,7 @@ ___
  <details>  
    <summary>Read 01</summary>  
   
-  - [Ch 1. The ABC of Programming]
+  - [Ch 1. The ABC of Programming](Ch1ABCProgram.md)
  </details>  
  <details>  
   <summary>Read 02</summary>  
