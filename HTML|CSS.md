@@ -1,5 +1,7 @@
 # HTML: Table of Contents  
 ___  
+
+[Ch 1. Structure](Ch1Structure.md)
 <details> 
   <summary>Week 01</summary>
  <details>  
