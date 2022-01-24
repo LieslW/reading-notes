@@ -17,7 +17,7 @@ ___
 - [Markdown: Basic Syntax](MarkdownBasicSyntac.md)
 - [Choosing a Text Editor](ChoosingaTextEditor.md)
 - [The Command Line](CommandLine.md)
-- [Git Comprehensive Guide](GitGuide.md)
+- [Git Comprehensive Guide](GitGuide.md)  
 ___
 # Reading Notes: Code 201d82
 - [HTML & CSS](HTML|CSS.md)
