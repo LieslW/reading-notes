@@ -21,4 +21,4 @@ ___
 ___
 # Reading Notes: Code 201d82
 - [HTML & CSS](HTML|CSS.md)
-- Javascript & jQuery
+- [Javascript & jQuery](JS|jQ.md)
