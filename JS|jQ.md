@@ -6,4 +6,4 @@ ___
 ## Week 03 
 ### Class 12 
 - [Easily Create Stunning Animated Charts with Chart.js](Cla12.md)
-- 
+- [Basic Usage of Canvas](Cla12-1.md)
