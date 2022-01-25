@@ -3,3 +3,7 @@ ___
 ## Week 01 
 ### Class 01  
 - [Ch 1. The ABC of Programming](Ch1ABCProgram.md)
+## Week 03 
+### Class 12 
+- [Easily Create Stunning Animated Charts with Chart.js](Cla12.md)
+- 
