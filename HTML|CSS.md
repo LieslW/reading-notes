@@ -7,3 +7,6 @@ ___
 - [Ch 8. Extra Markup](Ch8ExtraMark.md)  
 - [Ch 17. HTML5 Layout](Ch17Layout.md)  
 - [Ch 18. Process & Design](ch18ProcessDesign.md)  
+## Week 03  
+### Class 12  
+- 
