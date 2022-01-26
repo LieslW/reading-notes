@@ -12,6 +12,7 @@ ___
 - [Ch 10. Introducing CSS](Ch10CSS.md)
 ### Class 03
 - [Ch 3. Lists](ch3HTML.md)
+- [Ch 13. Boxes](ch13CSS.md)
 ## Week 03  
 ### Class 12  
 - 
