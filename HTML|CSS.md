@@ -10,7 +10,8 @@ ___
 ### Class 02 
 - [Ch 2. Text](Ch2Text.md)
 - [Ch 10. Introducing CSS](Ch10CSS.md)
-
+### Class 03
+- [Ch 3. Lists](ch3HTML.md)
 ## Week 03  
 ### Class 12  
 - 
