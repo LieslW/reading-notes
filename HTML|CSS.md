@@ -9,6 +9,7 @@ ___
 - [Ch 18. Process & Design](ch18ProcessDesign.md)  
 ### Class 02 
 - [Ch 2. Text](Ch2Text.md)
+- [Ch 10. Introducing CSS](Ch10CSS.md)
 
 ## Week 03  
 ### Class 12  
