@@ -19,7 +19,7 @@ ___
 ### Class 05
 - [Ch 5. Images](ch5html.md)  
 - [Ch 11. Color](ch11CSS.md)
-- [Ch 12. Text]
+- [Ch 12. Text](ch12text.md)
 ## Week 03  
 ### Class 12  
 - 
