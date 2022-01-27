@@ -11,7 +11,7 @@ ___
 - [Ch 4. Decisions and Loops (Pt. 2)](ch4JS.md)  
 ### Class 04 
 - [Ch 3. Functions, Methods, & Objects](ch3JS.md)
-- [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+- [6 Reasons for Pair Programming](ArtPairPro.md)
 ## Week 03 
 ### Class 12 
 - [Easily Create Stunning Animated Charts with Chart.js](Cla12.md)
