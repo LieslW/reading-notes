@@ -1,4 +1,5 @@
 # 6 Reasons for Pair Programming  
+[6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
 **Pair Programming**  
 - *The Driver*: typing; handling mechanics  
