@@ -18,7 +18,7 @@ ___
 - [Ch 15. Layout](ch15Layout.md)
 ### Class 05
 - [Ch 5. Images](ch5html.md)  
-- [Ch 11. Color]
+- [Ch 11. Color](ch11CSS.md)
 - [Ch 12. Text]
 ## Week 03  
 ### Class 12  
