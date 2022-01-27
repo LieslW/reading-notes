@@ -14,7 +14,7 @@ ___
 - [Ch 3. Lists](ch3HTML.md)
 - [Ch 13. Boxes](ch13CSS.md)
 ### Class 04  
-- [Ch 4. Links]
+- [Ch 4. Links](ch4html.md)
 - [Ch 15. Layout]
 ## Week 03  
 ### Class 12  
