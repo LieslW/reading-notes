@@ -10,8 +10,8 @@ ___
 - [Ch 2. Basic JavaScript Review](ch2JS.md)
 - [Ch 4. Decisions and Loops (Pt. 2)](ch4JS.md)  
 ### Class 04 
-- [Ch 3. Functions, Methods, & Objects]
-- [6 Reasons for Pair Programming]
+- [Ch 3. Functions, Methods, & Objects](ch3JS.md)
+- [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 ## Week 03 
 ### Class 12 
 - [Easily Create Stunning Animated Charts with Chart.js](Cla12.md)
