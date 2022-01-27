@@ -12,6 +12,8 @@ ___
 ### Class 04 
 - [Ch 3. Functions, Methods, & Objects](ch3JS.md)
 - [6 Reasons for Pair Programming](ArtPairPro.md)
+### Class 05 
+- [JPEG vs. PNG vs. GIF](ArtImg.md)
 ## Week 03 
 ### Class 12 
 - [Easily Create Stunning Animated Charts with Chart.js](Cla12.md)
