@@ -16,6 +16,10 @@ ___
 ### Class 04  
 - [Ch 4. Links](ch4html.md)
 - [Ch 15. Layout](ch15Layout.md)
+### Class 05
+- [Ch 5. Images](ch5html.md)  
+- [Ch 11. Color]
+- [Ch 12. Text]
 ## Week 03  
 ### Class 12  
 - 
