@@ -1,7 +1,8 @@
-# Reading Notes: Code 102d34
-Reading Notes for CodeFellows 102d34  
-Hello! My name is Liesl (she/her) and I look forward to learning about Markdown! Here's my profile: https://github.com/LieslW
-## Growth Mindset 
+# Reading Notes
+Hello! My name is Liesl (she/her) and I look forward to learning more about software development! Here's my profile: https://github.com/LieslW
+### What is Reading Notes? 
+This essentially all my notes for all the readings throughout the entirety of the Code Fellow courses, from Code 102 to Code 401. Click on the links below and it will guide you to what you want to view. 
+### Growth Mindset 
   Those with a growth mindset look to:
   - Overcome challenges and obstacles 
   - Strategize problems and solutions 
@@ -13,12 +14,18 @@ Hello! My name is Liesl (she/her) and I look forward to learning about Markdown!
  2. No pain no gain 
  3. It's never too late to ask for help   
 ___
-## Table of Contents 
+## Code 102 - Intro to Software Development
 - [Markdown: Basic Syntax](MarkdownBasicSyntac.md)
 - [Choosing a Text Editor](ChoosingaTextEditor.md)
 - [The Command Line](CommandLine.md)
 - [Git Comprehensive Guide](GitGuide.md)  
 ___
-# Reading Notes: Code 201d82
+## Code 201 - Foundations of Software Development
 - [HTML & CSS](HTML|CSS.md)
 - [Javascript & jQuery](JS|jQ.md)
+___
+## Code 301 - Intermediate Software Development 
+- [Prep Work Readings]()
+___
+## Code 401 - Advanced Software Development
+- [Prep Work Readings]()
