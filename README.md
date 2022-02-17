@@ -26,6 +26,7 @@ ___
 ___
 ## Code 301 - Intermediate Software Development 
 - [Prep Work Readings](301Prep.md)
+- [Module 1]()
 ___
 ## Code 401 - Advanced Software Development
 - [Prep Work Readings]()
