@@ -1,0 +1,14 @@
+# Links  
+
+**Links** are separate links to other webpages and can be placed within your HTML document
+- `<a href="[link]">[text]</a>`  
+- Links within same document *(e.g. the navigation bar)*:
+  - `<a href="index.html">Home</a>`
+    - `index.html` known as a relative URL  
+- Link to email:  
+  - `<a href='mailto:[email address]">Email [subject]</a>`  
+- Link to open to new page:
+  - `<a href="[link]"target--"_blank">[text]</a>`  
+- Link to different part of same page:
+  - `<a href="[page section/HTML element]">[text]</a>`  
+

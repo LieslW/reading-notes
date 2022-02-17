@@ -1,7 +1,8 @@
 # Reading Notes
-Reading Notes for CodeFellows 102d34  
-Hello! My name is Liesl (she/her) and I look forward to learning about Markdown! Here's my profile: https://github.com/LieslW
-## Growth Mindset 
+Hello! My name is Liesl (she/her) and I look forward to learning more about software development! Here's my profile: https://github.com/LieslW
+### What is Reading Notes? 
+This essentially all my notes for all the readings throughout the entirety of the Code Fellow courses, from Code 102 to Code 401. Click on the links below and it will guide you to what you want to view. 
+### Growth Mindset 
   Those with a growth mindset look to:
   - Overcome challenges and obstacles 
   - Strategize problems and solutions 
@@ -11,72 +12,21 @@ Hello! My name is Liesl (she/her) and I look forward to learning about Markdown!
  ### Keep Up That Growth! 
  1. Don't let an obstacle bring you down; see it as a chance to improve! 
  2. No pain no gain 
- 3. It's never too late to ask for help
-___   
-## Markdown: Basic Syntax 
+ 3. It's never too late to ask for help   
 ___
-***Headings***  
-Headings are indicated by the "#" and dependent on how many of these you use will result in various sized headings. For example  
-
-"#" = Level 1 
-# This is a Level 1 Heading 
-"##" = Level 2 
-## This is a Level 2 Heading 
-And so forth...  
-This is similar to HTML's h1, h2, h3,... heading styles.  
-*Don't forget the space between your # and your heading title. Otherwise it will look like this*  
-
-#This is my Heading when I forget the space.  
+## Code 102 - Intro to Software Development
+- [Markdown: Basic Syntax](MarkdownBasicSyntac.md)
+- [Choosing a Text Editor](ChoosingaTextEditor.md)
+- [The Command Line](CommandLine.md)
+- [Git Comprehensive Guide](GitGuide.md)  
 ___
-***Paragraphs***  
-Paragraphs are much more simple. All you need to do is type in your text and separate it with a blank line...
-
-...like this!  
-
-To make in paragraphs, you can use:  
-- Bullets ("-" or "*")
-1. Numbers ("1.")  
-  
-*Don't try formatting your text in Markdown. The computer does it for you!*  
+## Code 201 - Foundations of Software Development
+- [HTML & CSS](HTML|CSS.md)
+- [Javascript & jQuery](JS|jQ.md)
 ___
-***Bold and Italics***  
-Markdown also lets you bold words and/or italicize them within your paragraphs. For example, if you want to bold something, simply surround it with a two pairs of ** ** or __ __.  
-
-**
-__This text is bolded__
-**  
-
-If you want to italicize something, surround it with one pair of * * or _ _.  
-
-_
-*This text is italicized*
-_  
-
-You can also embed your text as well as both italicize and bold it. Some examples include:  
-
-This text has both **bolded** and *italicized* words within it's sentence. 
-
-To have something both bolded and italicized, simply put three pairs of *** *** or ___ ___.
-
-
-***This sentence is both bolded and italicized***
+## Code 301 - Intermediate Software Development 
+- [Prep Work Readings](301Prep.md)
 ___
-***Blockquotes***  
-Blockquotes separate signficant parts of text; simply insert a " > " before the piece of text. For example:
-
-> This sentence is in a Blockquote  
-
-Blockquotes can also contain multiple sentences and/or be nested within one another. For example:  
-
-> This sentence is in a Blockquote  
->   
-> This is the second sentence in a Blockquote.  
-
-> This sentence is in a Blockquote. 
->   
->> This sentence is in a Blockquote within a Blockquote.  
-___  
-
-
-
+## Code 401 - Advanced Software Development
+- [Prep Work Readings]()
 

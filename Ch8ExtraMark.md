@@ -1,0 +1,33 @@
+# Extra Markup  
+  
+**DOCTYPES** tell browsers which version of HTML you are using  
+- *In case of CSS, the use of DOCTYPE can also help browser render page correctly*  
+
+**Comments** help guide the developer(s) throughout their code  
+- Not visible in rendered page   
+  - Use the `<!-- and -->` markers  
+
+**ID and Class Attributes** help identify particular elements on the page  
+- ID: *`<p id="quote">` (text that falls under this tag is then in quote format)*  
+- Class: *`<p class="important">` (text emphasized in format since it's considered important information)*  
+
+**Block Elements** start on a new line in the browser   
+- *e.g. `<header>` and `<body>` usually start on new lines in the browser*  
+- `<div> element groups block-level elements together  
+
+**Inline Elements** continue on the same line   
+- *e.g.:*
+  - This is one sentence that contains inline texts elements such as `<b>`to make a word in bold `</b>`.  
+  - `<span>` element group inline-level elements together  
+
+**`<iframes>`** display other web pages by cutting through the original
+- *e.g. a restaurant website page may display a separate web page of Google Maps depicting the address and location*  
+- Included elements: src, height, and width  
+
+**`<meta>`** supplies various information on web page  
+- *e.g.: description, keywords, author*  
+- Not visible to user  
+
+**Escape Characters** used to render special characters on a page
+- *e.g. `<`,`>`, and &copy; , use `&lt;` , `&gt;` , and `&copy;`
+  - *similar to how markdown uses backticks to describe an element you want to render* 
