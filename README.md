@@ -25,7 +25,7 @@ ___
 - [Javascript & jQuery](JS|jQ.md)
 ___
 ## Code 301 - Intermediate Software Development 
-- [Prep Work Readings]()
+- [Prep Work Readings](301Prep.md)
 ___
 ## Code 401 - Advanced Software Development
 - [Prep Work Readings]()
