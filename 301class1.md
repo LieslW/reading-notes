@@ -41,5 +41,9 @@ Define an attribute and its value(data), pass it to child component(s) by using 
 3. What is the flow of props?
 It has a uni-directional flow, going from the parent to the child below.  
 
-[What is "Props" and how to use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
+[What is "Props" and how to use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)  
+
+## Things I Want to Know  
+1. In what situations would it be inappropiate to use components? 
+2. Can there be multiple parents in React or within props?
 
