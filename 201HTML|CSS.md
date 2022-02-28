@@ -19,4 +19,4 @@ ___
 ### Class 05
 - [Ch 5. Images](201c5.5.md)  
 - [Ch 11. Color](201c5.11.md)
-- [Ch 12. Text](ch12text.md)
+- [Ch 12. Text](201c5.12.md)
