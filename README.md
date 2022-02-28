@@ -15,7 +15,7 @@ This essentially all my notes for all the readings throughout the entirety of th
  3. It's never too late to ask for help   
   
 ## Code 102 - Intro to Software Development  
-- [Markdown: Basic Syntax](MarkdownBasicSyntac.md)
+- [Markdown: Basic Syntax](101Markdown.md)
 - [Choosing a Text Editor](ChoosingaTextEditor.md)
 - [The Command Line](CommandLine.md)
 - [Git Comprehensive Guide](GitGuide.md)  
