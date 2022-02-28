@@ -9,7 +9,7 @@ ___
 - [Ch 18. Process & Design](201c1.18.md)  
 ### Class 02 
 - [Ch 2. Text](201c2.2.md)
-- [Ch 10. Introducing CSS](Ch10CSS.md)
+- [Ch 10. Introducing CSS](201c2.10.md)
 ### Class 03
 - [Ch 3. Lists](ch3HTML.md)
 - [Ch 13. Boxes](ch13CSS.md)
