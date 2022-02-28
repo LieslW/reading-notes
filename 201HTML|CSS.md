@@ -8,7 +8,7 @@ ___
 - [Ch 17. HTML5 Layout](201c1.17.md)  
 - [Ch 18. Process & Design](201c1.18.md)  
 ### Class 02 
-- [Ch 2. Text](Ch2Text.md)
+- [Ch 2. Text](201c2.2.md)
 - [Ch 10. Introducing CSS](Ch10CSS.md)
 ### Class 03
 - [Ch 3. Lists](ch3HTML.md)
