@@ -18,7 +18,7 @@ This essentially all my notes for all the readings throughout the entirety of th
 - [Markdown: Basic Syntax](101Markdown.md)
 - [Choosing a Text Editor](102Texteditor.md)
 - [The Command Line](102Commandline.md)
-- [Git Comprehensive Guide](GitGuide.md)  
+- [Git Comprehensive Guide](102Gitguide.md)  
   
 ## Code 201 - Foundations of Software Development  
 - [HTML & CSS](HTML|CSS.md)
