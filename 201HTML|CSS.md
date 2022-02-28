@@ -14,7 +14,7 @@ ___
 - [Ch 3. Lists](201c3.3.md)
 - [Ch 13. Boxes](201c3.13.md)
 ### Class 04  
-- [Ch 4. Links](ch4html.md)
+- [Ch 4. Links](201c4.4.md)
 - [Ch 15. Layout](ch15Layout.md)
 ### Class 05
 - [Ch 5. Images](ch5html.md)  
