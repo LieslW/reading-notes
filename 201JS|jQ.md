@@ -4,7 +4,7 @@ ___
 ### Class 01  
 - [Ch 1. The ABC of Programming](201c1.1j.md)
 ### Class 02 
-- [Ch 2. Basic JavaScript Instructions](ch2JS.md)
+- [Ch 2. Basic JavaScript Instructions](201c2.2j.md)
 - [Ch 4. Decisions and Loops](ch4JS.md)  
 ### Class 03  
 - [Ch 2. Basic JavaScript Review](ch2JS.md)
