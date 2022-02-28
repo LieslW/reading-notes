@@ -17,6 +17,6 @@ ___
 - [Ch 4. Links](201c4.4.md)
 - [Ch 15. Layout](201c4.15.md)
 ### Class 05
-- [Ch 5. Images](ch5html.md)  
+- [Ch 5. Images](201c5.5.md)  
 - [Ch 11. Color](ch11CSS.md)
 - [Ch 12. Text](ch12text.md)
