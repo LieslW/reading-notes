@@ -3,7 +3,7 @@ ___
 ## Week 01 
 ### Class 01 
 
-- [Ch 1. Structure](201c1.1) 
+- [Ch 1. Structure](201c1.1.md) 
 - [Ch 8. Extra Markup](Ch8ExtraMark.md)  
 - [Ch 17. HTML5 Layout](Ch17Layout.md)  
 - [Ch 18. Process & Design](ch18ProcessDesign.md)  
