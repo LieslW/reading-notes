@@ -11,7 +11,7 @@ ___
 - [Ch 2. Text](201c2.2.md)
 - [Ch 10. Introducing CSS](201c2.10.md)
 ### Class 03
-- [Ch 3. Lists](ch3HTML.md)
+- [Ch 3. Lists](201c3.3.md)
 - [Ch 13. Boxes](ch13CSS.md)
 ### Class 04  
 - [Ch 4. Links](ch4html.md)
