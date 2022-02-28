@@ -22,7 +22,7 @@ This essentially all my notes for all the readings throughout the entirety of th
   
 ## Code 201 - Foundations of Software Development  
 - [HTML & CSS](201HTML|CSS.md)
-- [Javascript & jQuery](JS|jQ.md)
+- [Javascript & jQuery](201JS|jQ.md)
   
 ## Code 301 - Intermediate Software Development   
 - [Prep Work Readings](301Prep.md)
