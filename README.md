@@ -16,7 +16,7 @@ This essentially all my notes for all the readings throughout the entirety of th
   
 ## Code 102 - Intro to Software Development  
 - [Markdown: Basic Syntax](101Markdown.md)
-- [Choosing a Text Editor](ChoosingaTextEditor.md)
+- [Choosing a Text Editor](102Texteditor.md)
 - [The Command Line](CommandLine.md)
 - [Git Comprehensive Guide](GitGuide.md)  
   
