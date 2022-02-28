@@ -12,7 +12,7 @@ ___
 - [Ch 10. Introducing CSS](201c2.10.md)
 ### Class 03
 - [Ch 3. Lists](201c3.3.md)
-- [Ch 13. Boxes](ch13CSS.md)
+- [Ch 13. Boxes](201c3.13.md)
 ### Class 04  
 - [Ch 4. Links](ch4html.md)
 - [Ch 15. Layout](ch15Layout.md)
