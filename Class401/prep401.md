@@ -20,6 +20,13 @@ Deliberate practice should include:
 
 ____  
 
+[Access Video Here](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
+
+Carol Dweck expands upon an issue we are seeing changing in the education system. In the past and even now, progress is measured by the immediate performance of students, whether this be via an exam or project. If you failed, you failed and vice versa.  
+
+However, she brings to light a new and growing mindset of "yet" and "not yet". Instead of being measured of immediate performance, students are celebrated for progress and ever going perserverance.  
+
+This represents a "growth mindset". A growth mindset understands that abilities and intelligence can constantly be challenged and improved. People with this mindset seek out challenges and new skills. Studies have shown that those with a growth mindset improve quicker and more effectively than fixed mindsets.  
 
 ## Angela Lee Duckworth on Grit  
 
