@@ -32,11 +32,23 @@ This represents a "growth mindset". A growth mindset understands that abilities 
 
 ____  
 
+[Access Video Here](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
+
+Angela Lee Duckworth summarizes her experience in a variety of areas where success and failure are determined. She noticed those who succeed are "grittier" than those who failed. This wasn't determined by IQ, looks, class, wealth, or anything of those factors. Simply, those who worked harder even in the face of failure were more likely to succeed. 
+
+She references Carol Dweck *(reference section above)* and "growth mindset". Overall, if you want to improve your skills in any area, don't be afraid to fail. Learn from it and try again.  
 
 ## Alain de Botton on Redefining Success  
 
 ____  
 
+[Access Video Here](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
+
+Alain de Botton reflects on how society measures success and people's worth in correlation to it.
+
+Essentially, there is a very strong mindset in which if you're successful or unsuccessful, you deserve it due your hard work or lack thereof. However, this can not be the case. There are many randomized factors which determine a person's success or progress. Not only that, but no one can be successful at everything.  
+
+Society should strive for a better understanding of this idea of "success" in order to better help and encourage those who live within it.  
 
 ## Emotional Intelligence and Biases  
 
