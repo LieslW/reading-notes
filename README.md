@@ -43,4 +43,5 @@ This essentially all my notes for all the readings throughout the entirety of th
 
 ## Code 401 - Advanced Software Development  
 
-- [Prep Work Readings](Class401/prep401.md)
+- [Prep: The Growth Mindset](Class401/prep401.md)
+- [Prep: The Command Line](Class401/prep401terminal.md)
