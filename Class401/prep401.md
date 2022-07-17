@@ -49,9 +49,3 @@ Alain de Botton reflects on how society measures success and people's worth in c
 Essentially, there is a very strong mindset in which if you're successful or unsuccessful, you deserve it due your hard work or lack thereof. However, this can not be the case. There are many randomized factors which determine a person's success or progress. Not only that, but no one can be successful at everything.  
 
 Society should strive for a better understanding of this idea of "success" in order to better help and encourage those who live within it.  
-
-## Emotional Intelligence and Biases  
-
-____
-
-// Unable to access links //  
