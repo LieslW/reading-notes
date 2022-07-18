@@ -45,3 +45,5 @@ This essentially all my notes for all the readings throughout the entirety of th
 
 - [Prep: The Growth Mindset](Class401/prep401.md)
 - [Prep: The Command Line](Class401/prep401terminal.md)
+___
+- [Week 1](Class401/week1.md)
