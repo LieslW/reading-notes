@@ -50,3 +50,4 @@ This essentially all my notes for all the readings throughout the entirety of th
 ___
 - [Week 1](week1.md)
 - [Week 2](week2.md)
+- [Week 3](week3.md)
