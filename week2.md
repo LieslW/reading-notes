@@ -4,4 +4,4 @@
 - [Class 7]()
 - [Class 8]()
 - [Class 9]()
-- [Class 10]()  
+- [Class 10](Class401/class-readings/401c10.md)  
